@@ -8,7 +8,7 @@ Before code I spent ten years in operations, recruitment and quality, from a med
 
 **Projects**
 - 🌐 [bitminded.ch](https://github.com/TomSwb/bitminded.github.io): my handmade site and project hub
-- 🧱 42 projects in C: [libft](https://github.com/TomSwb/libft), [ft_printf](https://github.com/TomSwb/ft_printf), [get_next_line](https://github.com/TomSwb/get_next_line),
+- 🧱 42 projects in C: [libft](https://github.com/TomSwb/libft), [ft_printf](https://github.com/TomSwb/ft_printf), [get_next_line](https://github.com/TomSwb/get_next_line)
 - 🐢 [Swimmy Turtle](https://github.com/TomSwb/swimmy_turtle): arcade game for browser and Android, [on itch.io](https://tombitminded.itch.io/swimmy-turtle)
 - 🐶 [Jumpy Puppy](https://github.com/TomSwb/jumpy_puppy): pixel-art platformer in Godot, [playable on itch.io](https://tombitminded.itch.io/jumpy-puppy)
 
